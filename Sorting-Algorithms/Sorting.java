@@ -1,4 +1,4 @@
-// buuble sorting in ascenmding order
+// buuble sorting in ascending order 
 import java.util.*;
 public class Sorting{
     public static void main(String[] args){
